@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApp1
-{//afaaf
+{//afaaf del
     class Program
     {
         static void Main(string[] args)
